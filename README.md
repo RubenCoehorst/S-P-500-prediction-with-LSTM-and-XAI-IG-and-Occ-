@@ -1,4 +1,4 @@
-# S-P-500-prediction-with-LSTM-and-XAI-IG-and-Occ-
+# S&P 500 prediction with LSTM and XAI (IG and Occ)
 A LSTM model is used to predict the prices of the S&P 500. These predictions are then explained using two XAI methods.
 
 Copy this command into your terminal to install the needed libraries:
